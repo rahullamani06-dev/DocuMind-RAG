@@ -281,3 +281,24 @@ Project Theme:
 ## 📄 License
 
 This project is licensed under the MIT License.
+## Demo Screenshots
+
+### Home Screen
+
+![Home Screen](screenshots/home.png)
+
+### PDF Processing
+
+![PDF Processing](screenshots/processing.png)
+
+### Question Input
+
+![Question](screenshots/question.png)
+
+### Answer Generation
+
+![Answer](screenshots/answer.png)
+
+### System Architecture
+
+![Architecture](screenshots/architecture.png)
